@@ -1,6 +1,6 @@
 # ARxMD
 
-ARxMD is an important part of Architectural Medicine®, the Architectural Doctor®, the Architectural Medicine System (AMS) and the Architectural Medicine Software Solution.
+ARxMD is an important part of Architectural Medicine®, the Architectural Doctor®, the Architectural Medicine System (AMS), and the Architectural Medicine Software Solution.
 
 Architectural Medicine LLC is focused on the topics of health and wellness in the built environment. The intent of Architectural Medicine is to help integrate these fields of Architecture and Medicine for the General Public, as well as the overall fields of Architecture and Medicine. A main goal is to help define these various fields and to participate in creating bridges between these professions in how they might all fit together.
 
@@ -12,13 +12,13 @@ The built environment has become much more complex over the past several decades
 
 The fields of Architecture and Medicine have changed quite a bit in the past fifty years, and while there have been many beneficial developments in each of these very large fields, there are still gaps relative to health in the built environment.
 
-There are currently very few overlaps between the fields of architetcure and medicine to ensure healthy built environments, including the fact that very few doctors include their patient's buildings in their health evaluations. As well, the average architect is often not trained in human health, and therefore may not be aware of the issues that certain health issues a building can create.
+There are currently very few overlaps between the fields of architecture and medicine to ensure healthy built environments, including the fact that very few doctors include their patient's buildings in their health evaluations. As well, the average architect is often not trained in human health, and therefore may not be aware of the issues that certain buildings can create.
 
-This icnludes the increasingly popular developments in the topics of Social Determinants of Health (SDoH) proviidng potential overalp between these fields of architecture and medicine.
+This includes the increasingly popular developments in the topics of Social Determinants of Health (SDoH) providing the potential for overlap between these fields of architecture and medicine.
 
 ## Architectural Medicine and the Architectural Doctor
 
-One of the key facets of the modern day world is the developments of technology and the digital developments in the professional fields. Both architecture and medicine have developed in this realm with tremendous advancements in the electronic worlds, from CAD and BIM in architecture to EHR, HIS, and the digital processes of the Electronic Health Record (EHR) in medical processes.
+One of the key facets of the modern day world are the developments of technology in these professional fields. Both architecture and medicine have developed in this realm with tremendous advancements in the electronic and digital worlds, from CAD and BIM in architecture to the digital processes of the Electronic Health Record (EHR) in medical processes.
 
 Both Architectural Medicine and the Architectural Doctor are focused on utilizing these new processes to benefit the two fields to provide better health and wellness in the built environment.
 
@@ -28,7 +28,7 @@ With all of this information on what is not being done, what can be done?
 
 The HL7 Organization provides standards to provide more advanced processes to intergate data using more standardized data interconnectivity. These integrations include SNOMED, ICD, and LOINC as an integral part of these medical codification processes.
 
-This includes the latest development called FHIR (Fast Healthcare Interoperability Resources), that utilizes the more common API standards used in software deevlopment to allow different software to talk to one another and to share data.
+This includes the latest HL7 development called FHIR (Fast Healthcare Interoperability Resources), that utilizes the more common API standards used in software deevlopment to allow different medical software applications to talk to one another and share data.
 
 ARxMD strives to provide this interoperability between both the architecture and the medical fields using these digital intergations using HL7 FHIR and the many possibilities that these APIs can provide.
 
