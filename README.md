@@ -1,6 +1,6 @@
 # ARxMD
 
-ARxMD℠ as the Architectural Medicine Software Solution is an important part of Architectural Medicine®, the Architectural Doctor®, and the Architectural Medicine System (AMS).
+ARxMD℠ as the Architectural Medicine Software Solution, is an important part of Architectural Medicine®, the Architectural Doctor®, and the Architectural Medicine System (AMS). Pronounced "arcs med," the term is utilized to define the integrations between the architecture and medical fields to provide cohesive solutions focused on health and wellness in the built environment.
 
 Architectural Medicine LLC is focused on the topics of health and wellness in the built environment. The intent of Architectural Medicine is to help integrate these fields of Architecture and Medicine for the General Public, as well as the overall fields of Architecture and Medicine. The main goal is to help define these various fields and to participate in creating bridges between these professions in how they might all fit together.
 
