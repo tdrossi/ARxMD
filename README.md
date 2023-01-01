@@ -32,4 +32,4 @@ This includes the latest HL7 development called FHIR (Fast Healthcare Interopera
 
 ARxMD strives to provide this interoperability between both the architecture and the medical fields using these digital integrations using HL7 FHIR and the many possibilities that these APIs can provide.
 
-Stay tuned for more information on this page, as well as the Architectural Medicine website.
+Stay tuned for more information on this page, as well as the [Architectural Medicine website](https://architecturalmedicine.com/).
