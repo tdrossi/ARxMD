@@ -1,8 +1,8 @@
 # ARxMD
 
-ARxMD® as the Architectural Medicine Software Solution, is an important part of Architectural Medicine®, the Architectural Doctor®, and the Architectural Medicine System (AMS). Pronounced "arcs med," the term is utilized to define the integrations between the architecture and medical fields to provide cohesive solutions focused on health and wellness in the built environment.
+ARxMD® as the Architectural Medicine Software Solution, is an important part of Architectural Medicine®, the Architectural Doctor®, and the Architectural Medicine System (AMS). Pronounced "arcs med," ARxMD is utilized to define the integrations between the architecture and medical fields to provide cohesive solutions focused on health and wellness in the built environment.
 
-Architectural Medicine LLC is focused on the topics of health and wellness in the built environment. The intent of Architectural Medicine is to help integrate these fields of Architecture and Medicine for the General Public, as well as the overall fields of Architecture and Medicine. The main goal is to help define these various fields and to participate in creating bridges between these professions in how they might all fit together.
+Architectural Medicine LLC is focused on the topics of health and wellness in the built environment. The intent of Architectural Medicine is to help integrate these fields of Architecture and Medicine for the General Public, as well as for the beneficial integrations between Architecture and Medicine. The main goal is to help define these various fields and to participate in creating bridges between these professions in how they might all fit together.
 
 In this way, the average person as the General Public can feel empowered to make the best decisions for themselves, their families, and the future. Yet it’s also important to recognize that the professionals in these fields also deserve to have an integrated approach so they can address client and patient issues, while utilizing best practices for health, healing, and wellness.
 
