@@ -1,6 +1,6 @@
 # ARxMD
 
-ARxMD® as the Architectural Medicine Software Solution, is an important part of Architectural Medicine®, the Architectural Doctor®, and the Architectural Medicine System (AMS). Pronounced "arcs med," ARxMD is utilized to define the integrations between the architecture and medical fields to provide cohesive solutions focused on health and wellness in the built environment.
+ARxMD® is the Architectural Medicine Software Solution, which is an important part of Architectural Medicine®, the Architectural Doctor®, and the Architectural Medicine System (AMS). Pronounced "arcs med," ARxMD is utilized to define the integrations between the architecture and medical fields to provide cohesive solutions focused on health and wellness in the built environment.
 
 Architectural Medicine LLC is focused on the topics of health and wellness in the built environment. The intent of Architectural Medicine is to help integrate these fields of Architecture and Medicine for the General Public, as well as for the beneficial integrations between Architecture and Medicine. The main goal is to help define these various fields and to participate in creating bridges between these professions in how they might all fit together.
 
@@ -31,5 +31,17 @@ The HL7 Organization provides standards to provide more advanced processes to in
 This includes the latest HL7 development called FHIR (Fast Healthcare Interoperability Resources), which utilizes the more common REST API standards used in software development to allow different medical software applications to talk to one another and exchange data.
 
 ARxMD strives to provide this interoperability between both the architecture and the medical fields using these digital integrations using HL7 FHIR and the many possibilities that these APIs can provide.
+
+## Building Informatics
+
+As awareness of the built environment on health becomes more widely recognized, the gaps that exist in current modern medical practices excluding the built environment from patient evaluations becomes more pronounced. The world of buildings, in which, on average, an individual can spend up to 90 percent of their time, can be recognized as a plethora of data related to your health. However, in the current day healthcare practices, very little of this potential data is included in patient evaluations.
+
+As more and more data is provided from the Internet of Things (IOT) and the Internet of Medical Things (IOMT), more opportunities become present to not only collect this into data lakes, yet to provision this data through data science into a form of translational informatics, which we call Building Informatics.
+
+The potential to provide insights into the ways in which our buildings impact health and wellness is growing, yet there are few conduits that both collect and evaluate these data streams. Architectural Medicine is working to bridge these gaps, in both the methods of the Healthy Building Inspector and the Building Informaticist, as well as the Architectural Medicine System with ARxMD to utilize methods to collect, evaluate, and utilize this data for doctors and healthcare professionals to support patient and public health.
+
+## Conclusion
+
+There is much that can be achieved utilizing these multi-displinary processes to connect many different professions for cohesive solutions for patient and public health, and as Architectural Medicine continues on this path we will provide updates here on software and systems solutions.
 
 Stay tuned for more information on this page, as well as the [Architectural Medicine website](https://architecturalmedicine.com/).
